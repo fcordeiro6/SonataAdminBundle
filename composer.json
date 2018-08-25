@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/admin-bundle",
+    "name": "fcordeiro6/admin-bundle",
     "type": "symfony-bundle",
     "description": "The missing Symfony Admin Generator",
     "keywords": [
